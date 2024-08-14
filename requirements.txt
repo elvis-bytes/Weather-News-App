@@ -1,0 +1,7 @@
+os-sys
+tk
+matplotlib
+numpy
+requests
+pillow
+python-dotenv
